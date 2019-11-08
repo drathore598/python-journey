@@ -10,3 +10,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 5 (2019-11-05): User Input and Type Casting
 - [x] Day 6 (2019-11-06): Conditionals and Branching
 - [x] Day 7 (2019-11-07): While Loops
+- [x] Day 8 (2019-11-08): For Loops and Iteration
