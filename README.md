@@ -12,3 +12,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 7 (2019-11-07): While Loops
 - [x] Day 8 (2019-11-08): For Loops and Iteration
 - [x] Day 9 (2019-11-09): Lists and List Operations
+- [x] Day 10 (2019-11-10): Tuples and Immutability
