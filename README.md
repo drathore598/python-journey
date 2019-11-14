@@ -16,3 +16,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 11 (2019-11-11): Dictionaries and Key-Value Pairs
 - [x] Day 12 (2019-11-12): Sets and Set Operations
 - [x] Day 13 (2019-11-13): List, Dict, and Set Comprehensions
+- [x] Day 14 (2019-11-14): Functions and Parameters
