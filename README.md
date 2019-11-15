@@ -17,3 +17,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 12 (2019-11-12): Sets and Set Operations
 - [x] Day 13 (2019-11-13): List, Dict, and Set Comprehensions
 - [x] Day 14 (2019-11-14): Functions and Parameters
+- [x] Day 15 (2019-11-15): Arbitrary Arguments (*args & **kwargs)
