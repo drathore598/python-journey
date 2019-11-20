@@ -22,3 +22,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 17 (2019-11-17): Variable Scope and Closures
 - [x] Day 18 (2019-11-18): Modules, Packages, and Standard Library
 - [x] Day 19 (2019-11-19): File I/O and Context Managers
+- [x] Day 20 (2019-11-20): Working with JSON and CSV Data
