@@ -28,3 +28,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 23 (2019-11-23): OOP: Inheritance and Polymorphism
 - [x] Day 24 (2019-11-24): OOP: Encapsulation and Polymorphism
 - [x] Day 25 (2019-11-25): OOP: Special Dunder Methods
+- [x] Day 26 (2019-11-26): Iterators and Generator Functions
