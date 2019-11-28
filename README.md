@@ -30,3 +30,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 25 (2019-11-25): OOP: Special Dunder Methods
 - [x] Day 26 (2019-11-26): Iterators and Generator Functions
 - [x] Day 27 (2019-11-27): Decorators and Function Wrappers
+- [x] Day 28 (2019-11-28): Regular Expressions and Pattern Matching
