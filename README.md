@@ -32,3 +32,4 @@ Documenting my code, exercises, and mini-projects starting November 2019.
 - [x] Day 27 (2019-11-27): Decorators and Function Wrappers
 - [x] Day 28 (2019-11-28): Regular Expressions and Pattern Matching
 - [x] Day 29 (2019-11-29): Mini-Project: CLI Task Manager
+- [x] Day 30 (2019-11-30): Capstone Project: Personal Expense Tracker
